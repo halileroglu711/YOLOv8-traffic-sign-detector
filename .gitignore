@@ -1,0 +1,7 @@
+.venv02/
+runs/
+yolov8n.pt
+yolo26n.pt
+traffic-sign-detector/
+*.pyc
+__pycache__/
